@@ -1,0 +1,16 @@
+{
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_4ced20531a4f462a8c5c535d4debd2eb"
+    },
+    "homemade apple": {
+        "normal": "homemade_apple_normal_822f52f0a6fc1d565bfe622aa422381b"
+    },
+    "playfair": {
+        "italic": "C:\\xampp\\htdocs\\phongvan_shop\\storage\\fonts\/playfair_italic_60c3ca1e709d4d22e4405af9c972c647",
+        "500_italic": "C:\\xampp\\htdocs\\phongvan_shop\\storage\\fonts\/playfair_500_italic_0f56a31de75f7d6ff848a83f221e03ba",
+        "bold_italic": "C:\\xampp\\htdocs\\phongvan_shop\\storage\\fonts\/playfair_bold_italic_27d3f9db8f9ab92065034b3e49d8d309",
+        "normal": "C:\\xampp\\htdocs\\phongvan_shop\\storage\\fonts\/playfair_normal_f3b19cab36630bd32ce09f2bac375ccc",
+        "500": "C:\\xampp\\htdocs\\phongvan_shop\\storage\\fonts\/playfair_500_a8dc4a2d2423185c27e32542983872e0",
+        "bold": "playfair_bold_ce8bea0b0e9a743efc1a2cc9edb9672a"
+    }
+}
